@@ -1,12 +1,22 @@
 ## Hello guys 🔋
 
-Meu nome e rodrigo
+Meu nome e rodrigo 🫀
+-tenho 15 anos 🤠
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo 📫
+-tenho dom de desenhar e quero melhorar cada vez mais 💪
+- Estou estudando na [Alura](https://www.alura.com.br) 
+- musica preferida ; beliver 🎤
+- Estou estudando ingles por conta propria 📖
+- Utilizo esse espaço para compartilha projetos do alura  😲
+
+### Você NÃO pode entra em contato comigo-📫
+### mensagem motivacional 
+se VOCÊ cair eu estarei la.
+
+
+
+assinado: chão 
 
 rodrigomtva@gmail.com
 
